@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/application.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/GPIO/hal_gpio.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/ECU_Layer/KeyPad/ecu_keypad.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/Interrupt/mcal_interrupt_manager.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/device_config.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/Interrupt/mcal_interrupt_config.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/Interrupt/mcal_external_interrupt.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/Interrupt/mcal_interrupt_generated_cfg.h</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/ECU_Layer/KeyPad/ecu_keypad.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/GPIO/hal_gpio.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/MCAL_Layer/Interrupt/mcal_external_interrupt.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/ECU_Layer/Char_LCD/ecu_char_LDC.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/ECU_Layer/ecu_layer_init.c</file>
+            <file>file:/C:/Users/Marwa%20Abdelrahman/Documents/MPLABXProjects/ECU_Layer/Char_LCD/ecu_char_LDC.h</file>
+        </group>
+    </open-files>
+</project-private>
